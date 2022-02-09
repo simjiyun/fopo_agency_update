@@ -1,0 +1,95 @@
+url
+    https://pofo.themezaa.com/home-classic-interactive-agency/
+
+
+#header
+    기본 헤더
+        - height : 72px
+        - top : 0
+
+    스크롤 아래 방향 
+        - height : 60px
+        - top : -60px
+
+    스크롤 위 방향
+        - height : 60px
+        - top : 0
+        
+
+    width : 100%
+    height : 72px
+    max-width: 1170px
+    배경색 : #fff
+    좌측 - 로고 (150 x 26 px)
+    우측
+        - 메인메뉴
+            패딩 여백 : 0 15px
+            폰트 : Montserrat
+            폰트색 : #232323 (Home 글씨 색만 시작부터 rgba(0,0,0, .6), 나머진 hover시)
+            폰트 사이즈 : 12px
+            폰트 굵기 : 600
+        - 서브메뉴
+            배경색 : rgba(35,35,35,1)
+            폰트 : 11px #fff 600
+                   12px #9d9d9d 500 
+
+        - 아이콘 메뉴
+            width: 146px
+            패딩 여백 : 0 15px
+
+
+
+
+#main
+    - section1
+        width : 100%
+        height: 100%
+
+    - section2
+        width : 100%
+        패딩 여백 : 130px 0
+        배경색 : #f7f7f7
+
+    - section3
+        width : 100%
+        패딩 여백 : 130px 0
+        배경색 : #1c1c1c
+
+    - section4
+        width : 100%
+        배경색 : #fff
+
+    - section5
+        width : 100%
+        배경색 : #fff
+        패딩 여백 : 130px 0
+
+    - section6
+        width : 100%
+        배경색 : #fff
+
+    - section7
+        width : 100%
+        배경색 : #fff
+        패딩 여백 : 130px 0
+
+    - section8
+        width : 100%
+        height : 602.438px
+        배경색 : #1c1c1c
+
+    - section9
+        width : 100%
+        배경색 : #fff
+        패딩 여백 : 130px 0
+
+    - section10
+        height : 160px
+        배경색 : #ff214f
+
+
+
+
+#footer
+    배경색 : #1c1c1c
+    패딩 여백 : 94px 0 30px 0
